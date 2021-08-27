@@ -1,5 +1,5 @@
 ---
-title: "47-779 - Quantum Integer Programming - CMU Fall 2020"
+title: "47-779 - Quantum Integer Programming and Machine Learning - CMU Fall 2021"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
@@ -8,7 +8,9 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 5:20p.m. - 7:10p.m. EST. Lectures on Zoom.
+Tuesdays and Thursdays 4:40p.m. - 6:40p.m. EST. Room ...
+
+THIS SITE IS UNDER CONSTRUCTION, pleaase disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIP/).
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
