@@ -14,7 +14,7 @@ THIS SITE IS UNDER CONSTRUCTION, pleaase disregard most of it. It currently cont
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
-Teaching Assistant: Maximiliano Stock, Tepper 4218A.
+Teaching Assistant: Maximiliano Stock (4218A Tepper Quad). 
 
 ## News
 
