@@ -14,6 +14,8 @@ THIS SITE IS UNDER CONSTRUCTION, pleaase disregard most of it. It currently cont
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
+Teaching Assistant: Maximiliano Stock, Tepper 4218A.
+
 ## News
 
 Our collaboration with USRA and Amazon Web Services was recently featured in [this news release](https://www.cmu.edu/tepper/news/stories/2020/october/quantum-computing-course.html) from the Tepper School of Businees at Carnegie Mellon Univerity.
