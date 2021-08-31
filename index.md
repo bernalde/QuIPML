@@ -8,7 +8,7 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 4:40p.m. - 6:40p.m. EST. Room ...
+Tuesdays and Thursdays 4:40p.m. - 6:40p.m. EST. Room 4219.
 
 THIS SITE IS UNDER CONSTRUCTION, pleaase disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIP/).
 
