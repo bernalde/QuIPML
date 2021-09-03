@@ -8,9 +8,9 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 4:40p.m. - 6:40p.m. EST. Room 4219.
+Tuesdays and Thursdays 4:40p.m. - 6:30p.m. EST. Room 4219.
 
-THIS SITE IS UNDER CONSTRUCTION, pleaase disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIP/).
+THIS SITE IS UNDER CONSTRUCTION, please disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIPML/).
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
@@ -66,7 +66,7 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 
 ## Grading
-Weekly homework and quizzes (50%), Final Project (50%).
+Weekly homework and quizzes (30%), Final Project (70%).
 - Each week will have a short quiz to evaluate the concepts covered in class. The two worst quizzes won't be counted towards the final grade.
 - The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
 
@@ -97,4 +97,4 @@ Amazon Braket Collaboration
 
 
 # Full Syllabus
-The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus-4.pdf" download>here.</a>
+The complete syllabus can be downloaded <a href="syllabus/QuIPML_Syllabus_2021.pdf" download>here.</a>
