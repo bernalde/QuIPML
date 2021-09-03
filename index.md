@@ -67,7 +67,7 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 ## Grading
 Weekly homework and quizzes (30%), Final Project (70%).
-- Each week will have a short quiz to evaluate the concepts covered in class. The two worst quizzes won't be counted towards the final grade.
+- There will be 4 quzzes to evaluate the concepts covered in class. Each worth 10 points. Only the best 3 quizzes will count toward the 30%.
 - The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
 
 ## Highlights
