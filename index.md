@@ -8,9 +8,9 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 4:40p.m. - 6:30p.m. EST. Room 4219.
+Tuesdays and Thursdays 4:40p.m. - 6:30p.m. EST. Room 2701 Tepper Quad.
 
-THIS SITE IS UNDER CONSTRUCTION, please disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIPML/).
+THIS SITE IS UNDER CONSTRUCTION, please disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIP/).
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
