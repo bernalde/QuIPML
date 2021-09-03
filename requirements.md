@@ -25,7 +25,7 @@ menuPosition: 5
 
 
 ## Grading
-Weekly homework and quizzes (50\%), Final Project (50\%).
+Weekly homework and quizzes (30\%), Final Project (70\%).
 - Each week (after the first) will have a short quiz to evaluate the concepts covered in class. The two worst outcomes won't be counted towards the final grade.
 - The final project will be submitted in groups and will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable is a report and a presentation.
 
