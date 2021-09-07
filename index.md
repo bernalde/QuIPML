@@ -52,18 +52,29 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 ## Basic course structure
 
-**Weeks 1-2:** Integer programming: classical methods, Grobner Basis. Test-sets.
+**Weeks 1-2:** Review of Linear algebra for Quantum Mechanics and Quantum Machine Learning.
 
-**Week 3:** Graver Basis, Ising model. 
+**Weeks 2:** Mathematical Programming basics (classical methods).
 
-**Week 4:** Quadratic Unconstrained Binary Optimization (QUBO), Graver Augmented Multiseed algorithm (GAMA).
+**Weeks 3:** Basic Classicl Machine Learning, Ising, QUBO.
 
-**Week 5:** Quantum methods for solving Ising/QUBO: Adiabatic Quantum Computing (AQC), Quantum Approximate Optimization Algorithm (QAOA).
+**Week 4:** Graver Augmented Multiseed algorithm (GAMA), Specialized hardware for solving Ising/QUBO.
 
-**Week 6:** Specialized hardware for solving Ising/QUBO.
+**Week 5:** Axioms of Quantum Mechanics, Quantum Measurements, Qubit Gate model of quantum computing. 
 
-**Week 7:** Applications, Compiling and Final Project presentations.
+**Week 6: Quantum methods for solving Ising/QUBO: Adiabatic Quantum Computing (AQC), Quantum Approximate Optimization Algorithm (QAOA). Midterm Project Presentations.
 
+**Week 7:** Midterm Project Presentations. Recent advances and other topics. 
+
+**Week 8:** Break
+
+**Week 9:** Quantum Algorithms for future quantum processors; HHL; Grover's search algorithm. Noise in quantum computing and quantum error correction.
+
+**Week 10:** Guest speakers. Term Project
+
+**Week 11-12-13:** Term Project
+
+**Week 14:** Term Project Presentations. 
 
 ## Grading
 Weekly homework and quizzes (30%), Final Project (70%).
