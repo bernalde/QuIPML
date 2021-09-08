@@ -8,7 +8,7 @@ menuPosition: 6
 Here you can access all the requirements for the final project.
 {% endif %}
 
-The final group project accounts for 50% of the total grade.
+The final group project accounts for 70% of the total grade.
 This project should reflect the understanding of the material covered in the course.
 
 The components of this project are the following:

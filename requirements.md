@@ -25,7 +25,7 @@ menuPosition: 5
 
 
 ## Grading
-Weekly homework and quizzes (30\%), Final Project (70\%).
+Weekly homework and quizzes (30%), Final Project (70%).
 - There will be 4 quzzes to evaluate the concepts covered in class. Each worth 10 points. Only the best 3 quizzes will count toward the 30%. 
 - The final project will be submitted in groups and will require the implementation and solution of an integer programming or machine learning instance using quantum computing resources. This final project deliverable is a report and a presentation.
 
