@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Course requirements and grading
 layout: page
 menuItem: Course requirements
 menuPosition: 5
----
+--- -->
 
 ## Grade distribution
 

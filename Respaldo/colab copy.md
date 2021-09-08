@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Python Notebooks on Colab"
 layout: page
 menuItem: "Colab Notebooks"
@@ -6,7 +6,7 @@ menuPosition: 3
 ---
 {% if site.docsUrl != "" %}
 Here you can access all the colab links.
-{% endif %}
+{% endif %} -->
 
 - Linear Programming and Integer Programming (From Lecture 1).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%201%20-%20LP%20and%20IP.ipynb)

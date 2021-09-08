@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Reading
 layout: page
 menuItem: Reading
@@ -6,7 +6,7 @@ menuPosition: 5
 ---
 {% if site.docsUrl != "" %}
 You can access all the required reading material via the links provided.
-{% endif %}
+{% endif %} -->
 
 From among many References, we will discuss in detail one or two papers (or book chapters) per class, depending on the topic. 
 Students should read them in advance so that class discussions can be more productive.  

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Project
 layout: page
 menuItem: Project
@@ -6,7 +6,7 @@ menuPosition: 6
 ---
 {% if site.docsUrl != "" %}
 Here you can access all the requirements for the final project.
-{% endif %}
+{% endif %} -->
 
 The final group project accounts for 50% of the total grade.
 This project should reflect the understanding of the material covered in the course.

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Lectures: Slides and Video"
 layout: page
 menuItem: "Lectures: Slides and Video "
@@ -6,7 +6,7 @@ menuPosition: 2
 ---
 {% if site.docsUrl != "" %}
 Here you can access all the lecture slides and videos.
-{% endif %}
+{% endif %} -->
 
 - Lecture 0: Course Overview.<br>
 <a href="slides/47-779 Lecture 0 - Course Overview.pdf" download>Slides</a>, 

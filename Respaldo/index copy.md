@@ -1,12 +1,12 @@
----
+<!-- ---
 title: "47-779 - Quantum Integer Programming and Machine Learning - CMU Fall 2021"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
 ---
-<h1>{{ site.courseName }}</h1>
+<h1>{{ site.courseName }}</h1> -->
 
-<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
+<!-- <img src="{{ site.baseurl }}/style/header.jpg" width="100%"> -->
 
 Tuesdays and Thursdays 4:40p.m. - 6:40p.m. EST. Room 4219.
 
