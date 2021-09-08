@@ -8,7 +8,7 @@ menuPosition: 3
 Here you can access all the colab links.
 {% endif %}
 
-- Linear Programming and Integer Programming (From Lecture 1).<br> 
+<!-- - Linear Programming and Integer Programming (From Lecture 1).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%201%20-%20LP%20and%20IP.ipynb)
 
 - Gr&ouml;bner Basis (From Lecture 2).<br> 
@@ -27,5 +27,5 @@ Here you can access all the colab links.
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%206%20-%20GAMA.ipynb)
 
 - Quantum Annealing via D-Wave (From Lecture 7).<br> 
-[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%207%20-%20DWave.ipynb)
+[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%207%20-%20DWave.ipynb) -->
 
