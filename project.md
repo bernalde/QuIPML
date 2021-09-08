@@ -23,14 +23,14 @@ The final group project accounts for 70% of the total grade.
     - If you choose a Machine Learning Problem:
         - Formulate a machine learning problem that is amenable to solution by a noisy intermediate-scale quantum (NISQ) device such as those available in computing cloud (e.g., Amazon Could Services).
         - Solve it using neural networks and classical computing methods (consider solving it without using GPUs as a baseline for the comparison) as a benchmark
-●	Perform simulations of NISQ devices and/or analytical resource estimates for this problem (so that we know what would be needed at scale when more mature NISQ devices become available in the future). 
-    ○	 If you choose an Integer Optimization Problem:
-        ■	Tackle the resulting QUBO using non-conventional methods, e.g. Quantum Annealing, QAOA, simulated annealing in GPUs/TPUs, etc. Compare at least two different methods.
-    ○	If you choose a Machine Learning Problem:
-        ■	Solve the learning task using hardware accelerators, e.g., GPUs or TPUs. Perform simulations or runs in limited-sized instances in NISQ devices.
-●	Provide a mid-term report with initial results and plan (15/70) with a short presentation (10/70).
-●	Write a report outlining strengths-limitations-functional requirements-opportunities of the different approaches used, highlighting the knowledge obtained while developing the project supported by computational results (25/70).
-●	Make a presentation to the class reporting the findings of the project (20/70).
+- Perform simulations of NISQ devices and/or analytical resource estimates for this problem (so that we know what would be needed at scale when more mature NISQ devices become available in the future). 
+    - If you choose an Integer Optimization Problem:
+        - Tackle the resulting QUBO using non-conventional methods, e.g. Quantum Annealing, QAOA, simulated annealing in GPUs/TPUs, etc. Compare at least two different methods.
+    - If you choose a Machine Learning Problem:
+        - Solve the learning task using hardware accelerators, e.g., GPUs or TPUs. Perform simulations or runs in limited-sized instances in NISQ devices.
+- Provide a mid-term report with initial results and plan (15/70) with a short presentation (10/70).
+- Write a report outlining strengths-limitations-functional requirements-opportunities of the different approaches used, highlighting the knowledge obtained while developing the project supported by computational results (25/70).
+- Make a presentation to the class reporting the findings of the project (20/70).
 
 There will be an ungraded submission at the beginning of week 3 with the proposed problem to be solved (we can guide you in case you are out of ideas). There is a presentation at the middle of the semester (when the mid-term report is submitted) allowing students to present in front of the class their partial progress and receive feedback.
 
