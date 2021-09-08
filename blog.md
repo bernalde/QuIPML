@@ -15,7 +15,7 @@ Selected blog posts from MyAmpleLife.
 
 
 
-- Week 2: Grobner Basis.<br> 
+<!-- - Week 2: Grobner Basis.<br> 
 [Having Fun with Grobner Basis and Algebraic Geometry](http://www.myamplelife.com/wp/2018/10/grobner-basis/)
 
 - Week 3: Ising Model.<br> 
@@ -35,4 +35,4 @@ Selected blog posts from MyAmpleLife.
 - Week 7: Applications.<br> 
 [Mathematics of Cancer Genomics: A Ridiculously Short Introduction](http://www.myamplelife.com/wp/2019/07/mathematics-for-cancer-genomics-a-ridiculously-short-introduction/)<br>
 [The Topology of Mutated Driver Pathways](http://www.myamplelife.com/wp/2019/06/the-topology-of-mutated-driver-pathways/)<br>
-[TRTR: Tayur Reformulated Track Reconstruction](http://www.myamplelife.com/wp/2020/07/trtr-tayur-reformulated-track-reconstruction/)
+[TRTR: Tayur Reformulated Track Reconstruction](http://www.myamplelife.com/wp/2020/07/trtr-tayur-reformulated-track-reconstruction/) -->
