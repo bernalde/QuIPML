@@ -1,6 +1,6 @@
 ---
-week: 3
-day: Week of September 21th
+week: 4
+day: Week 4
 title: Graver Augmented Multiseed algorithm (GAMA)
 ---
 ### Graver Augmented Multiseed algorithm (GAMA)
