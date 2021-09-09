@@ -1,7 +1,7 @@
 ---
-title: "47-779 - Quantum Integer Programming and Machine Learning - CMU Fall 2021"
+title: "47-779/785 - Quantum Integer Programming and Quantum Machine Learning - CMU Fall 2021"
 layout: home
-menuItem: "Basic info"
+menuItem: "Basic information"
 menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
@@ -10,9 +10,10 @@ menuPosition: 1
 
 Tuesdays and Thursdays 4:40p.m. - 6:30p.m. EST. Room 2701 Tepper Quad.
 
-THIS SITE IS UNDER CONSTRUCTION, please disregard most of it. It currently contains an incomplete version from our previous lecture which is available [here](https://bernalde.github.io/QuIP/).
+THIS SITE IS UNDER CONSTRUCTION.
+You can review our previous course on Quantum Integer Programming contents which are available [here](https://bernalde.github.io/QuIP/).
 
-Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
+Prof. Sridhar Tayur (4216 Tepper Quad), Prof. Elias Towe (Roberts Engineering Hall 147), Dr. Davide Venturelli (online), Dr. David Bernal (DH3116).
 
 Teaching Assistant: Maximiliano Stock (4218A Tepper Quad). 
 
