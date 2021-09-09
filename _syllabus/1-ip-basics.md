@@ -1,6 +1,6 @@
 ---
-week: 1
-day: Week 2
+week: 2
+day: Week of September 9th
 title: Integer programming classical methods
 ---
 ### Integer Programming basics

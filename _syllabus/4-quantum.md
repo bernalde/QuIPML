@@ -1,6 +1,6 @@
 ---
 week: 6
-day: Week 6
+day: Week of October 5th
 title: Quantum methods for solving Ising/QUBO
 ---
 ### Adiabatic Quantum Computing

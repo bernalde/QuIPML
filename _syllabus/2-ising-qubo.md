@@ -1,6 +1,6 @@
 ---
 week: 3
-day: Week 3
+day: Week of September 16th
 title: Ising, Quadratic Unconstrained Binary Optimization
 
 ---
