@@ -59,7 +59,7 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 3:** Basic Classicl Machine Learning, Ising, QUBO.
 
-**Week 4:** Graver Augmented Multiseed algorithm (GAMA), Specialized hardware for solving Ising/QUBO.
+**Week 4:** Graver Augmented Multiseed algorithm (GAMA).
 
 **Week 5:** Axioms of Quantum Mechanics, Quantum Measurements, Qubit Gate model of quantum computing. 
 
@@ -69,7 +69,7 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 8:** Break
 
-**Week 9:** Quantum Algorithms for future quantum processors; HHL; Grover's search algorithm. Noise in quantum computing and quantum error correction.
+**Week 9:** Specialized hardware for solving Ising/QUBO. Quantum Algorithms for future quantum processors; HHL; Grover's search algorithm. Noise in quantum computing and quantum error correction.
 
 **Week 10:** Guest speakers. Term Project
 
