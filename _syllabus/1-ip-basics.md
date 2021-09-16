@@ -1,6 +1,6 @@
 ---
-week: 1
-day: Weeks of August 31st and September 7th
+week: 2
+day: Week of September 9th
 title: Integer programming classical methods
 ---
 ### Integer Programming basics

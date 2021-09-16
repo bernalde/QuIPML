@@ -11,6 +11,13 @@ You can access all the required reading material via the links provided.
 From among many References, we will discuss in detail one or two papers (or book chapters) per class, depending on the topic. 
 Students should read them in advance so that class discussions can be more productive.  
 
+<!-- 1. [Integer programming classical methods](https://bernalde.github.io/QuIPML/syllabus/1-ip-basics.html) (Week 2)
+
+2. [Ising, Quadratic Unconstrained Binary Optimization](https://bernalde.github.io/QuIPML/syllabus/2-ising-qubo.html) (Week 3)
+3. [Graver Augmented Multiseed algorithm (GAMA)](https://bernalde.github.io/QuIPML/syllabus/3-gama.html) (Week 4)
+4. [Quantum methods for solving Ising/QUBO](https://bernalde.github.io/QuIPML/syllabus/4-quantum.html) (Week 6)
+5. [Specialized hardware methods for solving Ising/QUBO](https://bernalde.github.io/QuIPML/syllabus/5-special-hardware.html) (Week 4)
+6. [Other topics and project presentations](https://bernalde.github.io/QuIPML/syllabus/6-others.html) (Week 7 and 14) -->
 
 <ol>
 {% assign syllabus = (site.syllabus | sort: "week") %}
@@ -18,7 +25,7 @@ Students should read them in advance so that class discussions can be more produ
   <li>
   	<a href="{{ site.baseurl }}{{ week.url }}">{{ week.title }}</a> 
   	{% for tag in week.tags %}
-  		<b>#{{ tag }}</b>
+  		<b>#{{ tag }}</b>	
   	{% endfor %}
   	({{ week.day }})</li>
 {% endfor %}
