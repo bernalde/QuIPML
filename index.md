@@ -33,7 +33,6 @@ By the end of the semester, someone enrolled in this course should be able to:
 - Work in groups collaboratively on a state-of-the-art project regarding applications of quantum computing and integer programming
 
 This course is not going to focus on the following topics:
-- Quantum Gates and Circuits
 - Computational complexity theory
 - Quantum Information Theory
 - Analysis of speedup using differential geometry, algebraic topology, etc.
