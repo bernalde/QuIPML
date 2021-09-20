@@ -8,19 +8,19 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 4:40p.m. - 6:30p.m. EST. Room 2701 Tepper Quad.
+Tuesdays and Thursdays 4:40 p.m. - 6:30 p.m. EST. Room 2701 Tepper Quad.
 
 THIS SITE IS UNDER CONSTRUCTION.
 You can review our previous course on Quantum Integer Programming contents which are available [here](https://bernalde.github.io/QuIP/).
 
-Prof. Sridhar Tayur (4216 Tepper Quad), Prof. Elias Towe (Roberts Engineering Hall 147), Dr. Davide Venturelli (online), Dr. David Bernal (DH3116).
+Lecturers: Prof. Sridhar Tayur (4216 Tepper Quad), Prof. Elias Towe (Roberts Engineering Hall 147), Dr. Davide Venturelli (online), and Dr. David Bernal (DH3116).
 
 Teaching Assistant: Maximiliano Stock (4218A Tepper Quad). 
 
 ## News
 
-Our collaboration with USRA and Amazon Web Services was recently featured in [this news release](https://www.cmu.edu/tepper/news/stories/2020/october/quantum-computing-course.html) from the Tepper School of Businees at Carnegie Mellon Univerity.
-The article also mentions the motivation of creating this course, so enjoy the read!
+Our collaboration with USRA and Amazon Web Services was recently featured in [this news release](https://www.cmu.edu/tepper/news/stories/2020/october/quantum-computing-course.html) from the Tepper School of Business at Carnegie Mellon Univerity.
+The article also mentions the motivation for creating this course, so enjoy the read!
 
 
 ## Objectives
@@ -35,18 +35,18 @@ By the end of the semester, someone enrolled in this course should be able to:
 This course is not going to focus on the following topics:
 - Computational complexity theory
 - Quantum Information Theory
-- Analysis of speedup using differential geometry, algebraic topology, etc.
+- Analysis of speedup using differential geometry, algebraic topology.
 
 Students with backgrounds in operations research, industrial engineering, chemical engineering, electrical engineering, physics, computer science, or applied mathematics are strongly encouraged to consider taking this course.
 [Enroll here.](https://s3.andrew.cmu.edu/sio)
 
 ## Prerequisite classes and capabilities
 
-Although this class has no explicit prerequisites we consider a list of recommended topics and skills that the student should feel comfortable with.
+Although this class has no explicit prerequisites, we consider a list of recommended topics and skills that the student should feel comfortable with.
 An undergraduate-level understanding of probability, calculus, statistics, graph theory, algorithms, and linear algebra is assumed.
-Knowledge of linear and integer programming will be useful for this course.
+Knowledge of linear and integer programming will be helpful in this course.
 Programming skills are strongly recommended.
-Basic concepts in physics are recommended but lack of prior knowledge is not an issue as pertinent ones will be covered in the lectures.
+Basic concepts in physics are recommended, but lack of prior knowledge is not an issue as pertinent ones will be covered in the lectures.
 No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 
@@ -56,7 +56,7 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 2:** Mathematical Programming basics (classical methods).
 
-**Week 3:** Basic Classicl Machine Learning, Ising, QUBO.
+**Week 3:** Basic Classical Machine Learning, Ising, QUBO.
 
 **Week 4:** Graver Augmented Multiseed algorithm (GAMA).
 
@@ -78,15 +78,15 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 ## Grading
 Weekly homework and quizzes (30%), Final Project (70%).
-- There will be 4 quzzes to evaluate the concepts covered in class. Each worth 10 points. Only the best 3 quizzes will count toward the 30%.
-- The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
+- There will be 4 quizzes to evaluate the concepts covered in class—each worth 10 points. Only the best 3 quizzes will count toward the 30%.
+- The final project will be submitted in groups. It will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
 
 ## Highlights
 The specific skills that students will gain that will make them "quantum ready" for industry or further academic research in this course are:
 
 A. Classical
 
-1. Given a practical problem (from supply chain or physics or anything else), formulate it as a non-linear integer program. We will provide a few practical problems, but we encourage you to suggest one that you are already working on or are interested in.
+1. Given a practical problem (from supply chain, physics, to anything else), formulate it as a non-linear integer program. We will provide a few practical problems, but we encourage you to suggest one that you are already working on or are interested in.
 2. Solve such formulations via classical solvers.
 
 B. Quantum
