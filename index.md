@@ -6,7 +6,7 @@ menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
 
-<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/Header2b.jpg" width="100%">
 
 Tuesdays and Thursdays 4:40 p.m. - 6:30 p.m. EST. Room 2701 Tepper Quad.
 
