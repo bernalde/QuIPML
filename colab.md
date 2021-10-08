@@ -14,10 +14,10 @@ Here you can access all the colab links.
 - Ising and QUBO (From Lecture 5).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIPML/blob/main/notebooks/Notebook%202%20-%20QUBO%20and%20Ising.ipynb)
 
-<!-- Gr&ouml;bner Basis (From Lecture 2).<br> 
-[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%202%20-%20Groebner%20basis.ipynb)
+- Graver Augmented Multiseed Algorithm (From Lecture 8).<br> 
+[Notebook](https://colab.research.google.com/github/bernalde/QuIPML/blob/master/notebooks/Notebook%205%20-%20GAMA.ipynb)
 
-- Graver Basis (From Lecture 3).<br> 
+<!-- Graver Basis (From Lecture 3).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%203%20-%20Graver%20basis.ipynb)
 
 - Ising Model (From Lecture 4).<br> 

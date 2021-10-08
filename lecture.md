@@ -28,3 +28,9 @@ Here you can access all the lecture slides.
 
 - Lecture 6: Deep Learning.<br>
 <a href="slides/QUIP and QML Lecture 6 - Deep Learning.pdf" download>Slides</a>
+
+- Lecture 7: Convolutional Neural Networks.<br>
+<a href="slides/QUIP and QML Lecture 7 - Convolutional Neural Networks.pdf" download>Slides</a>
+
+- Lecture 8: Graver Augmented Multiseed Algorithm (GAMA).<br>
+<a href="slides/QUIP and QML Lecture 8 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>
