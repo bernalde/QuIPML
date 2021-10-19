@@ -130,3 +130,5 @@ dmypy.json
 
 # VSCode Workspace
 *.code-workspace
+*.p
+launch.json
