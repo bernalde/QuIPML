@@ -34,3 +34,18 @@ Here you can access all the lecture slides.
 
 - Lecture 8: Graver Augmented Multiseed Algorithm (GAMA).<br>
 <a href="slides/QUIP and QML Lecture 8 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>
+
+- Lecture 9: Axioms of Quantum Mechanics.<br>
+<a href="slides/QUIP and QML Lecture 9 - Axioms of Quantum Mechanics.pdf" download>Slides</a>
+
+- Lecture 10: Introduction to Quantum Gates and Circuits.<br>
+<a href="slides/QUIP and QML Lecture 10 - Introduction to Quantum Gates and Circuits.pdf" download>Slides</a>
+
+- Lecture 11: First Look at Quantum Algorithms Deutsch's Problem.<br>
+<a href="slides/QUIP and QML Lecture 11 - First Look at Quantum Algorithms Deutsch’s Problem.pdf" download>Slides</a>
+
+- Lecture 12: Quantum Approximate Optimization Algorithm.<br>
+<a href="slides/QUIP and QML Lecture 12 - Quantum Approximate Optimization Algorithm.pdf" download>Slides</a>
+
+- Lecture X: Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.<br>
+<a href="slides/QUIP and QML Lecture X - Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.pdf" download>Slides</a>
