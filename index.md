@@ -56,21 +56,26 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 2:** Mathematical Programming basics (classical methods).
 
-**Week 3:** Basic Classical Machine Learning, Ising, QUBO.
+**Week 3-4:** Basic Classical Machine Learning, Ising, QUBO.
+
+**Week 4:** Ising, QUBO (GAMA).
 
 **Week 4:** Graver Augmented Multiseed algorithm (GAMA).
 
 **Week 5:** Axioms of Quantum Mechanics, Quantum Measurements, Qubit Gate model of quantum computing. 
 
-**Week 6:** Quantum methods for solving Ising/QUBO: Adiabatic Quantum Computing (AQC), Quantum Approximate Optimization Algorithm (QAOA). Midterm Project Presentations.
+**Week 6:** Quantum methods for solving Ising/QUBO: Adiabatic Quantum Computing (AQC), Quantum Alternating (Approximate) Optimization Ansatz (Algorithm) (QAOA). Midterm Project Presentations.
 
-**Week 7:** Midterm Project Presentations. Recent advances and other topics. 
+**Week 7:** Break
 
-**Week 8:** Break
+**Week 8:** Midterm Project Presentations. 
 
-**Week 9:** Specialized hardware for solving Ising/QUBO. Quantum Algorithms for future quantum processors; HHL; Grover's search algorithm. Noise in quantum computing and quantum error correction.
+**Week 9:** Specialized hardware for solving Ising/QUBO. Quantum Algorithms for future quantum processors; HHL; Grover's search algorithm. 
 
 **Week 10:** Guest speakers. Term Project
+Noise in quantum computing and quantum error correction.
+
+**WeekS 11:** Recent advances and other topics. 
 
 **WeekS 11-12-13:** Term Project
 
