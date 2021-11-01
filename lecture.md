@@ -47,5 +47,16 @@ Here you can access all the lecture slides.
 - Lecture 12: Quantum Approximate Optimization Algorithm.<br>
 <a href="slides/QUIP and QML Lecture 12 - Quantum Approximate Optimization Algorithm.pdf" download>Slides</a>
 
+- Lecture 13: Midterm Presentations
+
+- Lecture 14: Quantum Annealing, Quantum-inspired Heuristics, Benchmarking, and Parameter setting.<br>
+<a href="slides/QUIP and QML Lecture 14 - Quantum Annealing, Quantum-Inspired Heuristics, Benchmarking, and Parameter setting.pdf" download>Slides</a>
+
+- Lecture 15: Quantum Fourier Transform.<br>
+<a href="slides/QUIP and QML Lecture 15 - Quantum Fourier Transform.pdf" download>Slides</a>
+
+- Lecture 16: Quantum Phase Estimation and Linear Algebraic Systems.<br>
+<a href="slides/QUIP and QML Lecture 16 - Quantum Phase Estimation and Linear Algebraic Systems.pdf" download>Slides</a>
+
 - Lecture X: Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.<br>
 <a href="slides/QUIP and QML Lecture X - Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.pdf" download>Slides</a>
