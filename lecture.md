@@ -61,7 +61,8 @@ Here you can access all the lecture slides.
 - Lecture 17: Novel Approaches to Solving Ising Problems.<br>
 <a href="slides/QUIP and QML Lecture 17 - Novel Approaches to Solving Ising Models.pdf" download>Slides</a>
 
-- Lecture 18: Guest Speaker: Prof. Prabha Mandayam. Quantum Error Correction. [Part 1](https://www.youtube.com/watch?v=0Hhu2B1Xbu0), [Part 2](https://www.youtube.com/watch?v=VdHyAabmhyY), [Part 3](https://www.youtube.com/watch?v=Hz-kasZtrWc).
+- Lecture 18: Guest Speaker: Prof. Prabha Mandayam. Quantum Error Correction. 
+[Part 1](https://www.youtube.com/watch?v=0Hhu2B1Xbu0), [Part 2](https://www.youtube.com/watch?v=VdHyAabmhyY), [Part 3](https://www.youtube.com/watch?v=Hz-kasZtrWc).
 
 
 - Lecture X: Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.<br>
