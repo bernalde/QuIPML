@@ -17,13 +17,17 @@ Here you can access all the colab links.
 - Graver Augmented Multiseed Algorithm (From Lecture 8).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIPML/blob/master/notebooks/Notebook%205%20-%20GAMA.ipynb)
 
-<!-- Graver Basis (From Lecture 3).<br> 
-[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%203%20-%20Graver%20basis.ipynb)
+- Quantum Approximate (Alternating) Optimization Algorithm (Ansatz) (From Lecture 12).<br> 
+[Examples from Amazon Braket](https://console.aws.amazon.com/braket)
 
-- Ising Model (From Lecture 4).<br> 
-[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%204%20-%20Ising%20Model.ipynb)
+- Quantum Annealing, Quantum-Inspired Heuristics, Benchmarking, and Parameter setting (From Lecture 14 and 17).<br> 
+[Notebook](https://colab.research.google.com/github/bernalde/QuIPML/blob/master/notebooks/Notebook%204%20-%20Benchmarking.ipynb)
 
-- Quadratic Unconstrained Binary Optimization [QUBO] (From Lecture 5).<br> 
+- Novel Approaches to Solving Ising Models (From lecture 17). <br>
+[Translated Notebook](https://colab.research.google.com/github/bernalde/QuIPML/blob/master/notebooks/Notebook%208%20-%20Amplify%20Tutorials.ipynb) 
+
+
+<!-- Quadratic Unconstrained Binary Optimization [QUBO] (From Lecture 5).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%205%20-%20QUBO.ipynb)
 
 - Graver Augmented Multiseed Algorithm [GAMA] (From Lecture 6).<br> 
