@@ -23,11 +23,6 @@ Our collaboration with USRA and Amazon Web Services was recently featured in [th
 The article also mentions the motivation for creating this course, so enjoy the read!
 
 
-
-## Introduction to Quantum Integer Programming
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JzVvVetnq6M?start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Objectives
 
 This course is primarily designed for graduate students (and advanced undergraduates) across CMU campuses interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.

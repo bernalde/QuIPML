@@ -8,6 +8,9 @@ menuPosition: 7
 Selected blog posts from MyAmpleLife.
 {% endif %}
 
+## Introduction to Quantum Integer Programming
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JzVvVetnq6M?start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Week 1: Course Overview.<br> 
 [Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/) <br>
 [A Brief History of Modern Computing](http://www.myamplelife.com/wp/2020/04/a-brief-history-of-modern-computing/)<br>
