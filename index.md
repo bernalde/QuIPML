@@ -10,7 +10,6 @@ menuPosition: 1
 
 Tuesdays and Thursdays 4:40 p.m. - 6:30 p.m. EST. Room 2701 Tepper Quad.
 
-THIS SITE IS UNDER CONSTRUCTION.
 You can review our previous course on Quantum Integer Programming contents which are available [here](https://bernalde.github.io/QuIP/).
 
 Lecturers: Prof. Sridhar Tayur (4216 Tepper Quad), Prof. Elias Towe (Roberts Engineering Hall 147), Dr. Davide Venturelli (online), and Dr. David Bernal (DH3116).
