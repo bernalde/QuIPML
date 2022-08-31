@@ -14,6 +14,7 @@ Here you can access all the lecture slides.
 - Lecture 1: Review of Linear Algebra I.<br>
 <a href="slides/QUIP and QML Lecture 1 - Review of Linear Algebra I.pdf" download>Slides</a>
 
+<!--
 - Lecture 2: Review of Linear Algebra II.<br>
 <a href="slides/QUIP and QML Lecture 2 - Review of Linear Algebra II.pdf" download>Slides</a>
 
@@ -67,3 +68,4 @@ Here you can access all the lecture slides.
 
 - Lecture X: Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.<br>
 <a href="slides/QUIP and QML Lecture X - Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.pdf" download>Slides</a>
+-->
